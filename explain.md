@@ -6,8 +6,9 @@
 
 ## 2.1 `01-variables.js`
 
-### 6. Challenge: Create a Person Object
 
+### 6. Challenge: Create a Person Object
+📁 **ไฟล์:** [01-variables.js](./01-variables.js#L97-L119)
 ### แนวคิดที่ใช้
 
 * Object ใน JavaScript
@@ -56,6 +57,7 @@ Alice Smith, Age: 20, GPA: 3.8
 ## 2.2 `02-functions.js`
 
 ### 8. Returning Objects
+📁 **ไฟล์:** [02-functions.js](./02-functions.js#L101-L122)
 
 ```js
 function createUser(firstName, lastName, age) {
@@ -89,6 +91,7 @@ John Doe
 ---
 
 ### 9. Function as Parameter (Callback)
+📁 **ไฟล์:** [02-functions.js](./02-functions.js#L124-L139)
 
 ```js
 function processArray(arr, callback) {
@@ -121,6 +124,7 @@ console.log(doubled);
 ## 2.3 `03-control-flow.js`
 
 ### 5. Short-Circuit Evaluation
+📁 **ไฟล์:** [03-control-flow.js](./03-control-flow.js#L75-L94)
 
 ```js
 const user = { name: "John" };
@@ -145,6 +149,7 @@ John
 ---
 
 ### 7. Form Validation
+📁 **ไฟล์:** [03-control-flow.js](./03-control-flow.js#L117-L165)
 
 ```js
 function validateRegistration(formData) {
@@ -177,6 +182,7 @@ function validateRegistration(formData) {
 ## 2.4 `04-loops.js`
 
 ### 9. Chaining Methods
+📁 **ไฟล์:** [04-loops.js](./04-loops.js#L85-L98)
 
 ```js
 const data = [1, 2, 3, 4, 5, 6];
@@ -204,6 +210,7 @@ console.log(result);
 ---
 
 ### 10. Challenge: Student Grades
+📁 **ไฟล์:** [04-loops.js](./04-loops.js#L100-L135)
 
 ```js
 const students = [
@@ -229,6 +236,7 @@ console.log(average);
 ---
 
 ## 2.5 `05-integration.js`
+📁 **ไฟล์:** [05-integration.js](./05-integration.js)
 
 ### Activity 5: Integration – Quiz Application
 
